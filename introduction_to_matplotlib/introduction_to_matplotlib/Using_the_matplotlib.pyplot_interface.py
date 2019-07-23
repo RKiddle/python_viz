@@ -1,8 +1,8 @@
 # Import the matplotlib.pyplot submodule and name it plt
-import ____ as ____
+import matplotlib.pyplot as plt
 
 # Create a Figure and an Axes with plt.subplots
-fig, ax = ____
+fig, ax = plt.subplots()
 
 # Call the show function to show the result
-____
+plt.show()
